@@ -1,5 +1,5 @@
 # doorPi
-<b>RaspberryPi Doorbell</b>
+<h2>RaspberryPi Doorbell</h2>
 
 It statarted one fine Halloween, when someone stole my wireless doorbell from the front door of our house.  All that was left was a bit of the double sided foam tape I had used to stick it to the door frame.  It's okay, really. The door frame metal, and half the time the signal couldn't reach the dinger, and it didn't go off.  Fast forward to September of the following year.  I decided it was time to install a new bell.  But no, i did not want another wireless bell, because of the problems I had last time.  Instead, I putchased a new doorbell and an 18" drill bit!  
 
@@ -9,17 +9,18 @@ Then, I did some more research.  Adafruit just came out with a new, more powerfu
 
 The upgraded doorbell would now be powered by a Raspberry Pi, have a more powerful amplifier, and be able to send me a text message, and animate a crazy little Halloween trinket that I picked up at Target.  And there are plans to include more features in future releases, such as integration with my Sonos system.  But, lets calm down for a minute and focus on the current release.
 
-Hardware:
+<h3>Hardware:</h3>
 
-  CORE
-  * Raspberry Pi http://adafru.it/2358
-  
-  OPTIONAL
-  * Amplifier http://adafru.it/1752
-  * Speakers http://adafru.it/1732
-  
-  FUN
-  * Target Halloween hand tapping device http://www.gemmy.com/Animated_Skeleton_Hand_p/59666.htm
-  * Adafruit Huzzah 8266 breakout board http://adafru.it/2471
-  * Adafruit Boost1000C http://adafru.it/2465
-  * 3.7v Lithium Polymer battery
+<ul>CORE
+  <li>Raspberry Pi http://adafru.it/2358</li>
+</ul>
+<ul>OPTIONAL
+  <li>Amplifier http://adafru.it/1752</li>
+  <li>Speakers http://adafru.it/1732</li>
+</ul>
+<ul>FUN
+  <li>Target Halloween hand tapping device http://www.gemmy.com/Animated_Skeleton_Hand_p/59666.htm</li>
+  <li>Adafruit Huzzah 8266 breakout board http://adafru.it/2471</li>
+  <li>Adafruit Boost1000C http://adafru.it/2465</li>
+  <li>3.7v Lithium Polymer battery</li>
+</ul>
