@@ -1,5 +1,5 @@
 # doorPi
-*RaspberryPi Doorbell*
+<b>RaspberryPi Doorbell</b>
 
 It statarted one fine Halloween, when someone stole my wireless doorbell from the front door of our house.  All that was left was a bit of the double sided foam tape I had used to stick it to the door frame.  It's okay, really. The door frame metal, and half the time the signal couldn't reach the dinger, and it didn't go off.  Fast forward to September of the following year.  I decided it was time to install a new bell.  But no, i did not want another wireless bell, because of the problems I had last time.  Instead, I putchased a new doorbell and an 18" drill bit!  
 
